@@ -1,1 +1,1 @@
-# avatar_nginx
+# Avatar nginx
